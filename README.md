@@ -1,6 +1,6 @@
 # Quarter-Car Suspension Optimization using MATLAB & Simulink
 
-## 📌 Project Overview
+##  Project Overview
 This project simulates and optimizes a passive Quarter-Car suspension system. The objective is to determine the optimal damping coefficient (c) to maximize passenger comfort and vehicle stability when subjected to a harsh road disturbance (step input).
 
 The analysis compares three damping scenarios (Under-damped, Optimally damped, and Over-damped) using both **Time Domain (Settling Time)** and **Frequency Domain (Fast Fourier Transform)** analysis.
